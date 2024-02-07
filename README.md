@@ -29,7 +29,7 @@ This command will read all MP3 files from the `MyAudiobook` directory, convert a
 
 ## Credits
 
-This project was created with the assistance of ChatGPT, an AI language model developed by OpenAI.
+This project was forked from https://github.com/k4pran/AudioBookMaker
 
 ## License
 
